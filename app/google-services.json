@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620070768864",
+    "firebase_url": "https://foodrecipeapp-29ff5.firebaseio.com",
+    "project_id": "foodrecipeapp-29ff5",
+    "storage_bucket": "foodrecipeapp-29ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620070768864:android:9d2fd2867b2eea96ca4085",
+        "android_client_info": {
+          "package_name": "ca.mohawk.foodrecipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620070768864-5d2pfgqkb3mfab1qnjm2h59l45qsrbh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGt1NqSeS4p9mv6DrNK2FFhx92xBAmZr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620070768864-5d2pfgqkb3mfab1qnjm2h59l45qsrbh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

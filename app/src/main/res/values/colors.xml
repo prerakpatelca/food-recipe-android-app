@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#FF5722</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <color name="gradEnd">#FF5722</color>
+    <color name="gradStart">#FFC107</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+</resources>
