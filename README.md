@@ -40,7 +40,9 @@ Home page is a default page once user is logged in or presses Guest Login in Fig
 Recipe Page:
 
 ![alt text](https://github.com/prerakpatelca/food-recipe-android-app/blob/master/Picture4.png)
+
 ![alt text](https://github.com/prerakpatelca/food-recipe-android-app/blob/master/Picture5.png)
+
 ![alt text](https://github.com/prerakpatelca/food-recipe-android-app/blob/master/Picture6.png)
 
 On clicking an image or recipe name on Home Page (Figure 3), it will take user to Recipe page (Figure 4) where it will allow user to save recipe as Favourite and show detailed instructions and the list of ingredients.
